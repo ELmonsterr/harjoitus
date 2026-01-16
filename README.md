@@ -1,0 +1,2 @@
+# harjoitus
+Ensimmäinen Github-harjoitus
